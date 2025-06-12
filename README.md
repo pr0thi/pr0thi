@@ -1,4 +1,4 @@
-# Hey there, I'm Harsh 👋
+# Hey, I'm Harsh 👋
 
 I'm a Full Stack Developer who loves building clean, scalable, and impactful web apps.  
 
