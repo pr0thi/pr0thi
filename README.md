@@ -1,21 +1,6 @@
 # Hello World, I'm Harsh 👋
 
-<a href="https://linkedin.com/in/harsh-pruthi">
-  <img align="left" alt="Harsh Pruthi - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<a href="https://github.com/pr0thi">
-  <img align="left" alt="Harsh Pruthi - GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
-</a>
-<a href="mailto:harshpruthi2002@gmail.com">
-  <img align="left" alt="Harsh Pruthi - Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
-</a>
-<a href="https://www.youtube.com/@harshpruthi_">
-  <img align="left" alt="Harsh Pruthi - YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
-</a>
-<br />
-<br />
-
-🎓 B.Tech CSE'25 | 💻 Full Stack Dev (MERN) | 🛠️ Ex-Intern @ EPAM Systems  
+💻 Full Stack Dev (MERN) |  🛠️ Ex-Intern @ EPAM Systems | 🎓 B.Tech CSE  
 I love building clean UIs, scalable websites, and full-stack apps that solve real problems.
 
 ---
@@ -27,11 +12,15 @@ I love building clean UIs, scalable websites, and full-stack apps that solve rea
 
 ---
 
-### 🚀 Projects You Should Check Out
+### 🚀 Projects I've worked on
 
-- 🍲 [Nourish – Food Donation App](https://github.com/pr0thi/Nourish) – Donor ↔ Food Bank matcher with live maps  
-- 🧾 [CRIS Frontend](https://github.com/pr0thi/cris-training) – Call Center Migration Project. Training Project under CRIS.
-- 🍱 [Food Ordering App](https://github.com/pr0thi/Food-Ordering-Application) – Built on Swiggy’s live API  
+- ⚡  [EnergyX – Smart Workouts App](https://www.youtube.com/watch?v=pU6fhzZUjzo) – Gym microservcies-based architecture.
+- 🎁 [Nourish – Food Donation App](https://github.com/pr0thi/Nourish) – Donor ↔ Food Bank matcher with live maps.
+- 💰 [Personalised AI Finance Tracker](https://github.com/pr0thi/minor-project-finance) – Aggregates financial records and seeks GeminiAI Advisory.
+- 📷 [KYC Application](https://github.com/pr0thi/KYC) – Streamlines KYC Verification.
+- 📞 [CRIS Frontend](https://github.com/pr0thi/cris-training) – Call Center Migration Project. Training Project under CRIS.
+- 🍱 [Food Ordering App](https://github.com/pr0thi/Food-Ordering-Application) – Self-learning food delivery application utilising Swiggy's Live API.
+- 🎥 [Movie Streaming App](https://github.com/pr0thi/Video-Streaming-Application) – Self-learning movie-streaming application utilising Netflix's Design.
 ---
 
 I’m always learning, creating, and collaborating. Currently, I'm learning NextJS to unlock the unexplored possibilities.
@@ -39,4 +28,4 @@ Feel free to connect!
 
 Cheers,  
 **Harsh Pruthi**  
-[linkedin.com/in/harsh-pruthi](https://linkedin.com/in/harsh-pruthi) • [github.com/pr0thi](https://github.com/pr0thi)
+[linkedin.com/in/harsh-pruthi](https://linkedin.com/in/harsh-pruthi)
