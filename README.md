@@ -1,11 +1,50 @@
-<h1 align="center">Hi 👋, I'm Harsh Pruthi</h1>
-<h3 align="center">I'm a passionate developer with hands-on experience in building full-stack applications.</h3>
+# 👋 Hi, I'm Harsh Pruthi
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harsh-pruthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-pruthi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshpruthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshpruthi" height="30" width="40" /></a>
+## 💻 Full Stack Developer | MERN Stack | TypeScript | Express | React
+
+I'm a passionate developer with hands-on experience in building full-stack applications and scalable microservices. I recently completed my internship at **EPAM Systems**, where I worked on the **EnergyX** platform – contributing to user management and reporting microservices using Mongoose, cron jobs, and solid architectural practices.
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages**: JavaScript, TypeScript, Python
+- **Frontend**: React.js, Next.js, Chakra UI, Tailwind CSS
+- **Backend**: Node.js, Express.js, REST APIs, Mongoose
+- **Databases**: MongoDB, Firebase
+- **Tools & Platforms**: Git, GitHub, Postman, AWS Lambda, Vercel, Netlify
+- **Testing**: Jest, React Testing Library
+
+---
+
+## 🚀 Projects
+
+### ⚡ [EnergyX (Microservices)](https://github.com/your-repo-link)
+> Role-based platform with three personas. Built authentication and reporting services with advanced Mongoose queries and cron-based scheduling.
+
+### 🏋️‍♂️ [Gym Management System](https://github.com/your-repo-link)
+> Full-stack MERN app to manage gym memberships, trainers, attendance, and payments.
+
+### 💰 [Finance Tracker App](https://github.com/your-repo-link)
+> Collaborated with Akshit Gupta. Built features like budget visualization, recurring expenses, and secure user auth.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshpruthi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpruthi&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harshpruthi/)
+- 📧 harsh.pruthi@email.com
+- 📝 [Resume](https://your-resume-link.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
