@@ -1,50 +1,45 @@
-# 👋 Hi, I'm Harsh Pruthi
+# Hey there, I'm Harsh 👋
 
-## 💻 Full Stack Developer | MERN Stack | TypeScript | Express | React
-
-I'm a passionate developer with hands-on experience in building full-stack applications and scalable microservices. I recently completed my internship at **EPAM Systems**, where I worked on the **EnergyX** platform – contributing to user management and reporting microservices using Mongoose, cron jobs, and solid architectural practices.
-
----
-
-## 🛠 Tech Stack
-
-- **Languages**: JavaScript, TypeScript, Python
-- **Frontend**: React.js, Next.js, Chakra UI, Tailwind CSS
-- **Backend**: Node.js, Express.js, REST APIs, Mongoose
-- **Databases**: MongoDB, Firebase
-- **Tools & Platforms**: Git, GitHub, Postman, AWS Lambda, Vercel, Netlify
-- **Testing**: Jest, React Testing Library
+I'm a Full Stack Developer who loves building clean, scalable, and impactful web apps.  
+Currently working on microservices at **EPAM Systems**, and geeking out on React, Node.js, and design patterns.
 
 ---
 
-## 🚀 Projects
+### 🚀 Tech Stack
 
-### ⚡ [EnergyX (Microservices)](https://github.com/your-repo-link)
-> Role-based platform with three personas. Built authentication and reporting services with advanced Mongoose queries and cron-based scheduling.
-
-### 🏋️‍♂️ [Gym Management System](https://github.com/your-repo-link)
-> Full-stack MERN app to manage gym memberships, trainers, attendance, and payments.
-
-### 💰 [Finance Tracker App](https://github.com/your-repo-link)
-> Collaborated with Akshit Gupta. Built features like budget visualization, recurring expenses, and secure user auth.
+`JavaScript` · `TypeScript` · `React` · `Node.js` · `MongoDB`  
+`Redux Toolkit` · `Tailwind CSS` · `Express` · `Mongoose`  
+`Angular` · `REST APIs` · `JWT Auth` · `Git & GitHub`
 
 ---
 
-## 📈 GitHub Stats
+### 🛠️ Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshpruthi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpruthi&theme=radical" alt="GitHub Streak" />
-</p>
+- 🧾 [**Food Ordering App**](https://github.com/pr0thi/Food-Ordering-Application)  
+  React + Redux + Swiggy API | Promoted cards, shimmer UI, chunked rendering
 
----
+- 🍲 [**Nourish – Food Donation Platform**](https://github.com/pr0thi/Nourish)  
+  Google Maps integration, role-based flows, dynamic forms
 
-## 📫 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/harshpruthi/)
-- 📧 harsh.pruthi@email.com
-- 📝 [Resume](https://your-resume-link.com)
+- 🧠 [**CRIS Training App**](https://github.com/pr0thi/cris-training)  
+  Angular frontend for railway customer service
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 📌 What I’m Up To
+
+- 🔭 Interning @ **EPAM Systems**  
+  → Built full microservices (User Auth, Reports) with Mongoose aggregation & cron jobs  
+  → Focused on clean architecture and reusable service patterns
+
+- 📚 Learning system design & exploring backend scalability
+
+---
+
+### 📫 Let's Connect
+
+[LinkedIn](https://linkedin.com/in/harsh-pruthi) • [GitHub](https://github.com/pr0thi) • harshpruthi2002@gmail.com
+
+---
+
+> Keep it simple. Keep shipping.
