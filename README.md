@@ -27,5 +27,6 @@ I’m always learning, creating, and collaborating. Currently, I'm learning Next
 Feel free to connect! 
 
 Cheers,  
-**Harsh Pruthi**  
+**Harsh Pruthi**
+[https://harshpruthi.vercel.app/](https://harshpruthi.vercel.app/)
 [linkedin.com/in/harsh-pruthi](https://linkedin.com/in/harsh-pruthi)
