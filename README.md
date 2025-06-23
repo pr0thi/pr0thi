@@ -28,7 +28,3 @@ Feel free to connect!
 
 Cheers,  
 **Harsh Pruthi**
-
-[harshpruthi.vercel.app](https://harshpruthi.vercel.app/)
-
-[linkedin.com/in/harsh-pruthi](https://linkedin.com/in/harsh-pruthi)
